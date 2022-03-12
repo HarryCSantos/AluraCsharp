@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\AprendendoCsharp\\AprendendoCsharp.csproj",
-      "projectName": "AprendendoCsharp",
-      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\AprendendoCsharp\\AprendendoCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\AprendendoCsharp\\1-PrimeiroProjeto.csproj",
+      "projectName": "1-PrimeiroProjeto",
+      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\AprendendoCsharp\\1-PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\AprendendoCsharp\\obj\\",
       "projectStyle": "PackageReference",

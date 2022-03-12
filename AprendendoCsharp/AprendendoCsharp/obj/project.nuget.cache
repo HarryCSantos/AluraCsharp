@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbI3G+0BOF5ILor0X72u6g0VgS/McrQ4S5cvyrxUSsNQ9Yg6vrrM4U4O9vLREeVFqxEaaAVxgxt34RUmTg5a5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\AprendendoCsharp\\AprendendoCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

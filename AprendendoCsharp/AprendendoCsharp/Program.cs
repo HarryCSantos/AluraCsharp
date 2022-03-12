@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace AprendendoCsharp
+namespace _1_PrimeiroProjeto
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Olá, mundo. Projeto no Visual Studio!");
+
+            Console.WriteLine("A execução acabou. Tecle enter para finalizar. . . ");
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AprendendoCsharp/1.0.0": {
+        "runtime": {
+          "AprendendoCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AprendendoCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

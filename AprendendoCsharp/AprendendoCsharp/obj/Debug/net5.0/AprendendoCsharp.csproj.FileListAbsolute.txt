@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\AprendendoCsharp.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\AprendendoCsharp.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\AprendendoCsharp.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\AprendendoCsharp.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\AprendendoCsharp.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\ref\AprendendoCsharp.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\AprendendoCsharp.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\ref\AprendendoCsharp.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\AprendendoCsharp.genruntimeconfig.cache

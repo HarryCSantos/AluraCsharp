@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\7-CondicionaisEControleDeFluxo.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\7-CondicionaisEControleDeFluxo.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\7-CondicionaisEControleDeFluxo.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\7-CondicionaisEControleDeFluxo.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\7-CondicionaisEControleDeFluxo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\ref\7-CondicionaisEControleDeFluxo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\bin\Debug\net5.0\7-CondicionaisEControleDeFluxo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\ref\7-CondicionaisEControleDeFluxo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\7-CondicionaisEControleDeFluxo\obj\Debug\net5.0\7-CondicionaisEControleDeFluxo.genruntimeconfig.cache

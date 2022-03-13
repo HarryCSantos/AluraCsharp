@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\ref\4-ConversoesEOustrosTiposNumericos.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\bin\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\ref\4-ConversoesEOustrosTiposNumericos.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\4-ConversoesEOustrosTiposNumericos\obj\Debug\net5.0\4-ConversoesEOustrosTiposNumericos.genruntimeconfig.cache

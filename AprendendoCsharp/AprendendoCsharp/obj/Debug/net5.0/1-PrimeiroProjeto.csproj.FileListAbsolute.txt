@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\1-PrimeiroProjeto.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\1-PrimeiroProjeto.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\1-PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\1-PrimeiroProjeto.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\ref\1-PrimeiroProjeto.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\bin\Debug\net5.0\1-PrimeiroProjeto.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\ref\1-PrimeiroProjeto.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\AprendendoCsharp\obj\Debug\net5.0\1-PrimeiroProjeto.genruntimeconfig.cache

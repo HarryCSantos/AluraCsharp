@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYrcrNgyVvL7Hc1Os3tEXPBFpDWZiWvJuNN1xDgzjAZHMIGpzukt6SU8zMOcmK7IHBcRVlFYPnKSGfwymycAWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

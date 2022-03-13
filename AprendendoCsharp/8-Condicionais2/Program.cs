@@ -27,6 +27,8 @@ namespace _8_Condicionais2
                     Console.WriteLine("João não possui mais de 18 anos, não pode entrar");
                 }
             }
+
+            Console.ReadLine();
         }
     }
 }

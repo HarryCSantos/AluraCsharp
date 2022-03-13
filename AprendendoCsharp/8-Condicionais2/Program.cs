@@ -9,7 +9,7 @@ namespace _8_Condicionais2
             Console.WriteLine("Executando projeto 8 - Condicionais 2");
 
             int idadeJoao = 16;
-            int quantidadePessoas = 2;
+            int quantidadePessoas = 1;
 
             if (idadeJoao >= 18)
             {
@@ -28,7 +28,7 @@ namespace _8_Condicionais2
                 }
             }
 
-            Console.ReadLine();
+            Console.ReadLine();  
         }
     }
 }

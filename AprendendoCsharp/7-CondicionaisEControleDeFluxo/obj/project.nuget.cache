@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHoNjVxfw5d0P38AzRfUxSfq1x7Cj+9gXqHXyZ+hFOBV1nbQwMYrlwTW50/pMMapVsovQpJnkzDWATaBeVk4qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\7-CondicionaisEControleDeFluxo\\7-CondicionaisEControleDeFluxo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

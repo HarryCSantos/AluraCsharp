@@ -12,11 +12,7 @@ namespace _8_Condicionais2
             int quantidadePessoas = 2;
 
             bool acompanhado = quantidadePessoas >= 2)
-            {
-                Console.WriteLine("Pode entrar.");
-            }
-            else
-            {     
+                             
                 {
                     Console.WriteLine("Não pode entrar");
                 }

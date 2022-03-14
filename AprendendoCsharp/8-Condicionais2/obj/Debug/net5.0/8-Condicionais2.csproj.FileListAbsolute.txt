@@ -13,3 +13,4 @@ C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\8-Condicionais2\
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\8-Condicionais2\obj\Debug\net5.0\ref\8-Condicionais2.dll
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.pdb
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.genruntimeconfig.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.csproj.AssemblyReference.cache

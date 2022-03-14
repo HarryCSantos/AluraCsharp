@@ -13,3 +13,4 @@ C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\5-CaracteresETex
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\5-CaracteresETextos\obj\Debug\net5.0\ref\5-CaracteresETextos.dll
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.pdb
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.genruntimeconfig.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.csproj.AssemblyReference.cache

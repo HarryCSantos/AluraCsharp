@@ -9,7 +9,7 @@ namespace _9_Escopo
             Console.WriteLine("Executando projeto 9 - Escopo");
 
             int idadeJoao = 18;
-            bool acompanhado = false;
+            bool acompanhado = true;
 
             string mensagemmAdicional;
 

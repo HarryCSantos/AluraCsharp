@@ -12,6 +12,8 @@ namespace _8_Condicionais2
             int quantidadePessoas = 2;
 
             bool acompanhado = quantidadePessoas >= 2);
+
+            if (idadeJoao >=)
                              
                 {
                     Console.WriteLine("Não pode entrar");

@@ -14,12 +14,12 @@ namespace _9_Escopo
 
             if (acompanhado == true)
             {
-                mensagemmAdicional = "João está acompanhado!";
+                string mensagemAdicional = "João está acompanhado!";
 
             }
             else
             {
-                mensagemmAdicional = "João não está acompanhado";
+                string mensagemAdicional = "João não está acompanhado";
             }
 
             if (idadeJoao >= 18 && acompanhado == true)

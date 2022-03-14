@@ -15,10 +15,8 @@ namespace _8_Condicionais2
             {
                 Console.WriteLine("Pode entrar.");
             }
-            
-
-                
-                else
+            else
+            {     
                 {
                     Console.WriteLine("Não pode entrar");
                 }

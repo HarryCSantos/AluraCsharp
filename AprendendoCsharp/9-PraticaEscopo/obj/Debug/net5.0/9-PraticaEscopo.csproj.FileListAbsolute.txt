@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\9-PraticaEscopo.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\9-PraticaEscopo.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\9-PraticaEscopo.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\9-PraticaEscopo.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\9-PraticaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\ref\9-PraticaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\bin\Debug\net5.0\9-PraticaEscopo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\ref\9-PraticaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9-PraticaEscopo\obj\Debug\net5.0\9-PraticaEscopo.genruntimeconfig.cache

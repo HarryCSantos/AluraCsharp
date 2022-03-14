@@ -11,7 +11,8 @@ namespace _9_Escopo
             int idade= 16;
             int quantidadePessoas = 3;
             
-            if (idade >=18 || quantidadePessoas >=2)
+          //if (idade >=18 || quantidadePessoas >=2)
+            if (idade >=18 && quantidadePessoas >=2)
             {
                 Console.WriteLine("Seja bem vindo");
             }

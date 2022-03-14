@@ -34,10 +34,7 @@ namespace _9_Escopo
                     Console.WriteLine(mensagemmAdicional);
             }
 
-            else
-            {
-                        
-            }
+            
 
             Console.ReadLine();
             

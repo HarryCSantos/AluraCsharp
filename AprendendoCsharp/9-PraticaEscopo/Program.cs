@@ -10,7 +10,7 @@ namespace _9_Escopo
 
             int idade= 16;
             int quantidadePessoas = 3;
-            bool acompanhado = true;
+            bool acompanhado = quantidadePessoas >=2;
             
             //if (idade >=18 || quantidadePessoas >=2)
             if (idade >=18 && acompanhado)

@@ -15,11 +15,11 @@ namespace _9_Escopo
             //if (idade >=18 || quantidadePessoas >=2)
             if (idade >=18 && acompanhado)
             {
-                Console.WriteLine("Seja bem vindo");
+                Console.WriteLine("Seja bem vindo!");
             }
             else
             {
-                Console.WriteLine("Infelizmente você não pode entrar");
+                Console.WriteLine("Infelizmente você não pode entrar!");
             }
 
         }

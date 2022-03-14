@@ -18,6 +18,10 @@ namespace _9_Escopo
                 mensagemmAdicional = "João está acompanhado!";
 
             }
+            else
+            {
+                mensagemmAdicional = "João não está acompanhado";
+            }
             
         }
     }

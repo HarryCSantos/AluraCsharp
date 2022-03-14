@@ -28,6 +28,10 @@ namespace _9_Escopo
                 Console.WriteLine("Pode entrar.");
                     Console.WriteLine(mensagemmAdicional);
             }
+            else
+            {
+                Console.WriteLine("Não pode entrar");
+            }
             
         }
     }

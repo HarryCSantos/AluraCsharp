@@ -16,7 +16,7 @@ namespace _8_Condicionais2
             if (idadeJoao >= 18 && acompanhado == true)
                              
                 {
-                    Console.WriteLine("Não pode entrar");
+                    Console.WriteLine("Pode entrar.");
                 }
             }
 

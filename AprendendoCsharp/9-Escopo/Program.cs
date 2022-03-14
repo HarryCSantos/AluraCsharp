@@ -24,6 +24,10 @@ namespace _9_Escopo
             }
 
             if (idadeJoao >= 18 && acompanhado == true)
+            {
+                Console.WriteLine("Pode entrar.")
+                    
+            }
             
         }
     }

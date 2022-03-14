@@ -10,8 +10,7 @@ namespace _9_Escopo
 
             int idadeJoao = 18;
             bool acompanhado = false;
-
-            string mensagemmAdicional;
+            
 
             if (acompanhado == true)
             {

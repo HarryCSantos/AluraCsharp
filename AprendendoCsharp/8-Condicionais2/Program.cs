@@ -11,7 +11,7 @@ namespace _8_Condicionais2
             int idadeJoao = 18;
             int quantidadePessoas = 2;
 
-            if (idadeJoao >= 18 & quantidadePessoas >= 2)
+            if (idadeJoao >= 18 && quantidadePessoas >= 2)
             {
                 Console.WriteLine("Pode entrar.");
             }

@@ -8,7 +8,7 @@ namespace _9_Escopo
         {
             Console.WriteLine("Prática Escopo - Testando Condicional2");
 
-            int idade= 16;
+            int idade= 18;
             int quantidadePessoas = 3;
             bool acompanhado = quantidadePessoas >=2;
             

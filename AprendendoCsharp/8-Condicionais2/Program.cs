@@ -13,7 +13,7 @@ namespace _8_Condicionais2
 
             bool acompanhado = quantidadePessoas >= 2;
 
-            if (idadeJoao >= 18 && acompanhado == true)
+            if (idadeJoao >= 18 && acompanhado == false)
                              
             {
                 Console.WriteLine("Pode entrar.");

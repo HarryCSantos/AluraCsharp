@@ -11,6 +11,10 @@ namespace _9_Escopo
             int idadeJoao = 18;
             bool acompanhado = false;
 
+            if (acompanhado == true)
+            {
+
+            }
             
         }
     }

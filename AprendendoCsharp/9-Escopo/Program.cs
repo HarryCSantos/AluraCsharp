@@ -15,6 +15,7 @@ namespace _9_Escopo
 
             if (acompanhado == true)
             {
+                mensagemmAdicional = "João está acompanhado!";
 
             }
             

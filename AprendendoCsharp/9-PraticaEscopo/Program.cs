@@ -9,7 +9,7 @@ namespace _9_Escopo
             Console.WriteLine("Prática Escopo - Testando Condicional2");
 
             int idade= 18;
-            int quantidadePessoas = 1;
+            int quantidadePessoas = 2;
             bool acompanhado = quantidadePessoas >=2;
             //Dessa forma, nossa variável booleana terá valor true quando quantidadePessoas for maior ou igual a 2, e terá valor false quando ocorrer o contrário.
 

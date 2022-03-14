@@ -12,6 +12,9 @@ namespace _9_Escopo
             int quantidadePessoas = 3;
             
             if (idade >=18 || quantidadePessoas >=2)
+            {
+                Console.WriteLine("Seja bem vindo");
+            }
 
         }
     }

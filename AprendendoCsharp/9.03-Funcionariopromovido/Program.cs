@@ -17,7 +17,7 @@ namespace _9._03_Funcionariopromovido
             }
             else
             {
-                double salario = 3800.0;
+               Console.WriteLine()
             }
 
             Console.WriteLine(salario);

@@ -10,6 +10,7 @@ namespace _9._03_Funcionariopromovido
             double salario = 4300;
 
             bool foiPromovido = true;
+            Console.WriteLine(foiPromovido);
 
             if (salario >=4300)
             {

@@ -9,7 +9,10 @@ namespace _9._03_Funcionariopromovido
 
             bool foiPromovido = true;
 
-            
+            if (foiPromovido)
+            {
+
+            }
 
             Console.WriteLine("Hello World!");
         }

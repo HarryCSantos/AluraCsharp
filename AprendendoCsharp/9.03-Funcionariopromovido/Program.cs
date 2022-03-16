@@ -7,18 +7,20 @@ namespace _9._03_Funcionariopromovido
         static void Main(string[] args)
         {
 
+            double salario = 4300;
+
             bool foiPromovido = true;
 
-            if (foiPromovido)
+            if (salario >=4300)
             {
-                double salario = 4200.0;
+                Console.WriteLine("Parabésn você foi promovido! O teu salário agora é: " + salario);
             }
             else
             {
                 double salario = 3800.0;
             }
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(salario);
         }
     }
 }

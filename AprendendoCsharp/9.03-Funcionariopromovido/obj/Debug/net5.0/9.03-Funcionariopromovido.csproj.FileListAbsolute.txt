@@ -1,0 +1,4 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\9.02-TesteIRPF.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\9.02-TesteIRPF.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\9.02-TesteIRPF.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\9.02-TesteIRPF.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\9.02-TesteIRPF.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\ref\9.02-TesteIRPF.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\bin\Debug\net5.0\9.02-TesteIRPF.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\ref\9.02-TesteIRPF.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.02-TesteIRPF\obj\Debug\net5.0\9.02-TesteIRPF.genruntimeconfig.cache

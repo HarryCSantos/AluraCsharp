@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9-PraticaEscopo\\9.01-PraticaEscopo.csproj",
-      "projectName": "9.01-PraticaEscopo",
-      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9-PraticaEscopo\\9.01-PraticaEscopo.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9.02-TesteIRPF\\9.02-TesteIRPF.csproj",
+      "projectName": "9.02-TesteIRPF",
+      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9.02-TesteIRPF\\9.02-TesteIRPF.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9-PraticaEscopo\\obj\\",
+      "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9.02-TesteIRPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",

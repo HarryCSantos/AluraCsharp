@@ -11,7 +11,7 @@ namespace _9._03_Funcionariopromovido
 
             bool foiPromovido = true;
 
-            Console.WriteLine("Execundo o programa de promoção de funcionários");
+            Console.WriteLine("Execundo o programa de promoção de funcionários :,(");
 
             if (salario >=4300)
             {

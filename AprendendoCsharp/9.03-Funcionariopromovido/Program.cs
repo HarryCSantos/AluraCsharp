@@ -17,7 +17,7 @@ namespace _9._03_Funcionariopromovido
             }
             else
             {
-               Console.WriteLine()
+                Console.WriteLine("Infelizmente você não foi promovido!");
             }
 
             Console.WriteLine(salario);

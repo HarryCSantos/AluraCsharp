@@ -7,7 +7,7 @@ namespace _9._03_Funcionariopromovido
         static void Main(string[] args)
         {
 
-            double salario = 4300;
+            double salario = 4200;
 
             bool foiPromovido = true;
 

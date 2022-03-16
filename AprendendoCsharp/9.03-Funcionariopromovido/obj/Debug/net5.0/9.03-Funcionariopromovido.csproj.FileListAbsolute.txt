@@ -2,3 +2,14 @@ C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionario
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.AssemblyInfoInputs.cache
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.AssemblyInfo.cs
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\9.03-Funcionariopromovido.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\9.03-Funcionariopromovido.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\9.03-Funcionariopromovido.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\9.03-Funcionariopromovido.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\9.03-Funcionariopromovido.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\ref\9.03-Funcionariopromovido.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\bin\Debug\net5.0\9.03-Funcionariopromovido.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\ref\9.03-Funcionariopromovido.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.03-Funcionariopromovido\obj\Debug\net5.0\9.03-Funcionariopromovido.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "35GxCVw5osI6rc6QovBW+04bxHmjJFpK6KfslsfWY0qM9PAP0c5x68c+kB/fPqZlVyPa9NFkDji6QNGkzen/XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9.03-Funcionariopromovido\\9.03-Funcionariopromovido.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

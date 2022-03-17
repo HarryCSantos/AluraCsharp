@@ -6,7 +6,11 @@ namespace _9._05_AliquotaComIfs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Alíquota com Ifs!");
+
+            double salario = 3300.0;
+
+            Console.WriteLine("Testando Alíquota com Ifs!");
+
         }
     }
 }

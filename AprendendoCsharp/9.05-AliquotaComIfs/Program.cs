@@ -7,7 +7,7 @@ namespace _9._05_AliquotaComIfs
         static void Main(string[] args)
         {
 
-            double salario = 3300.0;
+            double salario = 4500.0;
 
             if (salario >= 1900.0 && salario <= 2800.0)
             {

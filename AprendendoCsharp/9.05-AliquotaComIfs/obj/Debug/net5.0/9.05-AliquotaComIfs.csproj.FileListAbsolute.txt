@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\9.05-AliquotaComIfs.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\9.05-AliquotaComIfs.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\9.05-AliquotaComIfs.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\9.05-AliquotaComIfs.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\9.05-AliquotaComIfs.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\ref\9.05-AliquotaComIfs.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\bin\Debug\net5.0\9.05-AliquotaComIfs.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\ref\9.05-AliquotaComIfs.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.05-AliquotaComIfs\obj\Debug\net5.0\9.05-AliquotaComIfs.genruntimeconfig.cache

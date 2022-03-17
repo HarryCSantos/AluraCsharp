@@ -21,7 +21,7 @@ namespace _9._05_AliquotaComIfs
 
             if (salario >=3751.01 && salario <=4664.0)
             {
-                Console.WriteLine("Seu imposto de Renda é ")
+                Console.WriteLine("Seu imposto de Renda é de 22.5% e pode deduzir na declaração o valor de R$ 636,00");
             }
             
 

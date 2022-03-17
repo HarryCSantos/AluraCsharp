@@ -7,7 +7,12 @@ namespace _9._05_AliquotaComIfs
         static void Main(string[] args)
         {
 
-            double salario = 3300.0;
+            double salario = 2800.0;
+
+            if (true)
+            {
+
+            }
 
             Console.WriteLine("Testando Alíquota com Ifs!");
 

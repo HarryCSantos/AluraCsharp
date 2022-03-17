@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\9.04-TestaEscopo.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\9.04-TestaEscopo.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\9.04-TestaEscopo.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\9.04-TestaEscopo.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\9.04-TestaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\ref\9.04-TestaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\bin\Debug\net5.0\9.04-TestaEscopo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\ref\9.04-TestaEscopo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\9.04-TestaEscopo\obj\Debug\net5.0\9.04-TestaEscopo.genruntimeconfig.cache

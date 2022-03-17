@@ -16,6 +16,10 @@ namespace _9._04_TestaEscopo
             {
                 bool acompanhado = true;
             }
+            else
+            {
+                bool acompanhado = false;
+            }
         }
     }
 }

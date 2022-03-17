@@ -14,7 +14,7 @@ namespace _9._05_AliquotaComIfs
                 Console.WriteLine("Seu imposto de Renda é de 7.5% e pode deduzir na declaração o valor de R$ 142,00");
             }
 
-            if (salario >=2800.01 )
+            if (salario >=2800.01 && salario <=3751.0)
             {
 
             }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nt+Tr+NiBXQaxjxPjAK3ZjRriqqMd/Acelp6pw9q7EwOWCb6Blyu5pPeWnEPgMrtIsAc44Rm11hTa49LpHDa5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\9.04-TestaEscopo\\9.04-TestaEscopo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

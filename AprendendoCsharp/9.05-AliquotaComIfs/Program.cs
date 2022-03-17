@@ -7,16 +7,18 @@ namespace _9._05_AliquotaComIfs
         static void Main(string[] args)
         {
 
-            double salario = 2800.0;
+            double salario = 3300.0;
 
-            if (salario <=2800)
+            if (salario >= 1900.0 && salario <= 2800.0)
             {
-                Console.WriteLine("Seu imposto de Renda é de 7.5% e pode deduzir na declaração o valor de R$ 142");
+                Console.WriteLine("Seu imposto de Renda é de 7.5% e pode deduzir na declaração o valor de R$ 142,00");
             }
-            if
+
+            if (salario >=2800.01 )
             {
-                (salario>=2880 )
+
             }
+            
 
 
             Console.WriteLine("Testando Alíquota com Ifs!");

@@ -20,6 +20,14 @@ namespace _9._04_TestaEscopo
             {
                 bool acompanhado = false;
             }
+            if (idade >=18 || acompanhado)
+            {
+                Console.WriteLine("Seja bem vindo");
+            }
+            else
+            {
+                Console.WriteLine("Infelizmente voce não pode entrar");
+            }
         }
     }
 }

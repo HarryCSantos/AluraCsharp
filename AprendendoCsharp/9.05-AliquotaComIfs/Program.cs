@@ -30,6 +30,9 @@ namespace _9._05_AliquotaComIfs
                 double deducao3 = (salario - 636);
                 Console.WriteLine("A sua aliquota é de 22.5%");
                 Console.WriteLine("A dedução do seu imposto de renda será:" + deducao3);
+            }else
+            {
+                Console.WriteLine("Agradeça a Deus, você não declara imposto de renda!");
             }
            
 

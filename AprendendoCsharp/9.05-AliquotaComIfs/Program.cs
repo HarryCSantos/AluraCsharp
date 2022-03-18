@@ -28,6 +28,7 @@ namespace _9._05_AliquotaComIfs
             if (salario >= 3751.01 && salario <= 4664.00)
             {
                 double deducao3 = (salario - 636);
+                Console.WriteLine("A sua aliquota é de 22.5%");
             }
            
 

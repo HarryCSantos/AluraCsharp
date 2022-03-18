@@ -17,11 +17,17 @@ namespace _9._05_AliquotaComIfs
                 //double aliquota = 7.5;
                 double deducao1 = (salario - 142);
                 Console.WriteLine("A sua aliquota é de 7%");
-                Console.WriteLine("A dedução do seu imposto de senda será: " + deducao1);
+                Console.WriteLine("A dedução do seu imposto de renda será: " + deducao1);
             }else
-            if (salario >=2800.01 && salario <= 3751.0)
+            if (salario >= 2800.01 && salario <= 3751.0)
             {
+                double deducao2 = (salario - 350);
                 Console.WriteLine("A sua aliquota é de 15%");
+                Console.WriteLine("A dedução do seu imposto de renda será" + deducao2);
+            }else
+            if (salario >= 3751.01 && salario <= 4664.00)
+            {
+                double 
             }
            
 

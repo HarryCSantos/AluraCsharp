@@ -6,6 +6,8 @@ namespace _9._05_AliquotaComIfs
     {
         static void Main(string[] args)
         {
+            // De 1900.0 até 2800.0 o IR é de 7.5% e pode deduzir R$ 142
+            // De 2800
 
            double salario = 3300.0;
 
@@ -13,8 +15,10 @@ namespace _9._05_AliquotaComIfs
             {
                 //double aliquota = 7.5;
                 double deducao1 = (salario - 142);
+                Console.WriteLine();
                 Console.WriteLine("A dedução do seu imposto de senda será: " + deducao1);
-            }
+            }else
+            if (salario >=)
            
 
         }

@@ -27,7 +27,7 @@ namespace _9._05_AliquotaComIfs
             }else
             if (salario >= 3751.01 && salario <= 4664.00)
             {
-                double 
+                double deducao3 = (salario - 636);
             }
            
 

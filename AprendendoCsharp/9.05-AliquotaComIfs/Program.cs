@@ -19,7 +19,10 @@ namespace _9._05_AliquotaComIfs
                 Console.WriteLine();
                 Console.WriteLine("A dedução do seu imposto de senda será: " + deducao1);
             }else
-            if (salario >=)
+            if (salario >=2800.01 && salario <= 3751.0)
+            {
+
+            }
            
 
         }

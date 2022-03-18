@@ -32,10 +32,11 @@ namespace _9._05_AliquotaComIfs
                 Console.WriteLine("A dedução do seu imposto de renda será:" + deducao3);
             }else
             {
-                Console.WriteLine("Agradeça a Deus, você não declara imposto de renda!");
+                Console.WriteLine("Agradeça a Deus, você não declara imposto de renda! ");
             }
-           
+            Console.WriteLine("O Programa foi finalizado pressione ENTER para sair...");
 
+            Console.ReadLine();
         }
     }
 }

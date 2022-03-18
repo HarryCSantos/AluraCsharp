@@ -13,7 +13,11 @@ namespace _9._05_AliquotaComIfs
             {
                 //double aliquota = 7.5;
                 double deducao1 = (salario - 142);
-                
+                Console.WriteLine("A dedução do seu imposto de senda será: " + deducao1);
+            }
+            else
+            {
+            if
             }
 
         }

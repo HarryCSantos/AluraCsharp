@@ -9,6 +9,7 @@ namespace CalculaPoupanca
             Console.WriteLine("Executando projeto 10 - Calcula Poupança");
 
             double valorInvestido = 1000;
+            int contadorMes = 1;
 
             //0.36 = 0.0036
             valorInvestido = valorInvestido + valorInvestido * 0.0036;

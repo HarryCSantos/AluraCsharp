@@ -19,7 +19,7 @@ namespace _9._05_AliquotaComIfs
                 //double aliquota = 7.5;
                 
                 Console.WriteLine("A sua aliquota é de 7%");
-                Console.WriteLine("Seu salário é R$" + salario + "\nSe enquadra na dedução de R$ " + deducao1 + " \nValor final após desconto do imposto de renda é de R$" + valorfinal1 );
+                Console.WriteLine("Seu salário é R$ " + salario + "\nSe enquadra na dedução de R$ " + deducao1 + " \nValor final após desconto do imposto de renda é de R$ " + valorfinal1 );
             }else
             if (salario >= 2800.01 && salario <= 3751.0)
             {

@@ -10,7 +10,7 @@ namespace _9._05_AliquotaComIfs
             // De 2800.01 até 3751.0 o IR é de 15% e pode deduzir R$ 350
             // De 3751.01 até 4664.00 o IR é de 22.5% e pode deduzir R$ 636
 
-           double salario = 4665.0;
+           double salario = 1950.0;
 
             if (salario >= 1900.0 && salario <= 2800.0 )
             {

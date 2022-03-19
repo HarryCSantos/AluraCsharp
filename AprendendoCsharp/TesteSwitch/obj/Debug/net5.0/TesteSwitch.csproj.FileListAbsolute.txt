@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\TesteSwitch.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\TesteSwitch.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\TesteSwitch.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\TesteSwitch.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\TesteSwitch.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\ref\TesteSwitch.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\bin\Debug\net5.0\TesteSwitch.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\ref\TesteSwitch.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteSwitch\obj\Debug\net5.0\TesteSwitch.genruntimeconfig.cache

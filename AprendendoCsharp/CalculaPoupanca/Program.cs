@@ -13,6 +13,12 @@ namespace CalculaPoupanca
             //0.36 = 0.0036
             valorInvestido = valorInvestido + valorInvestido * 0.0036;
             Console.WriteLine("Após 1 mês, você terá " + valorInvestido);
+
+            valorInvestido = valorInvestido + valorInvestido * 0.0036;
+            Console.WriteLine("Após 2 meses, você terá " + valorInvestido);
+
+
+
             Console.ReadLine();
         }
     }

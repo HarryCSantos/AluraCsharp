@@ -11,11 +11,12 @@ namespace _9._05_AliquotaComIfs
             // De 3751.01 até 4664.00 o IR é de 22.5% e pode deduzir R$ 636
 
            double salario = 1950.0;
+            double deducao1 = (- 142);
 
             if (salario >= 1900.0 && salario <= 2800.0 )
             {
                 //double aliquota = 7.5;
-                double deducao1 = (salario - 142);
+                
                 Console.WriteLine("A sua aliquota é de 7%");
                 Console.WriteLine("O valor final do seu salário após deduçao do imposto de renda é = R$ " + deducao1);
             }else

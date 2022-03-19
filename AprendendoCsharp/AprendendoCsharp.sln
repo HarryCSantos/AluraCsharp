@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.02-TesteIRPF", "9.02-Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.03-Funcionariopromovido", "9.03-Funcionariopromovido\9.03-Funcionariopromovido.csproj", "{09A26C8D-E6BC-4D66-A449-9E7A6B35853B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.04-TestaEscopo", "9.04-TestaEscopo\9.04-TestaEscopo.csproj", "{6D612BFB-AD87-4C64-98F5-DB9CA9A46178}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.04-TestaEscopo", "9.04-TestaEscopo\9.04-TestaEscopo.csproj", "{6D612BFB-AD87-4C64-98F5-DB9CA9A46178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.05-AliquotaComIfs", "9.05-AliquotaComIfs\9.05-AliquotaComIfs.csproj", "{698F63FA-7935-48B5-AD6E-6426AC2F043D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.05-AliquotaComIfs", "9.05-AliquotaComIfs\9.05-AliquotaComIfs.csproj", "{698F63FA-7935-48B5-AD6E-6426AC2F043D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSwitch", "TesteSwitch\TesteSwitch.csproj", "{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{698F63FA-7935-48B5-AD6E-6426AC2F043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{698F63FA-7935-48B5-AD6E-6426AC2F043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{698F63FA-7935-48B5-AD6E-6426AC2F043D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

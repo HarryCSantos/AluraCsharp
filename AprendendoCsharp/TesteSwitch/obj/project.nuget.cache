@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1jqc6JMhdqHpEzxCosNkm0Jk/mvX8o6ngGpS80JsXjbiT5yYETvYEeHvLbKYBL/IaFt1APOC7NPgHnAsNIGng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteSwitch\\TesteSwitch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

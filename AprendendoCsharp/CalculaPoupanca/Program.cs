@@ -6,7 +6,7 @@ namespace CalculaPoupanca
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Executando projeto 10 - Calcula Poupança");
         }
     }
 }

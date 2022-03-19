@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\P-10-CalculaPoupanca.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\P-10-CalculaPoupanca.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\P-10-CalculaPoupanca.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\P-10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\P-10-CalculaPoupanca.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\ref\P-10-CalculaPoupanca.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\bin\Debug\net5.0\P-10-CalculaPoupanca.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\ref\P-10-CalculaPoupanca.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\CalculaPoupanca\obj\Debug\net5.0\P-10-CalculaPoupanca.genruntimeconfig.cache

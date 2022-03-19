@@ -17,19 +17,19 @@ namespace _9._05_AliquotaComIfs
                 //double aliquota = 7.5;
                 double deducao1 = (salario - 142);
                 Console.WriteLine("A sua aliquota é de 7%");
-                Console.WriteLine("A dedução do seu imposto de renda será: " + deducao1);
+                Console.WriteLine("O valor final do seu salário após deduçao do imposto de renda =  " + deducao1);
             }else
             if (salario >= 2800.01 && salario <= 3751.0)
             {
                 double deducao2 = (salario - 350);
                 Console.WriteLine("A sua aliquota é de 15%");
-                Console.WriteLine("A dedução do seu imposto de renda será: " + deducao2);
+                Console.WriteLine("O valor final do seu salário após deduçao do imposto de renda =  " + deducao2);
             }else
             if (salario >= 3751.01 && salario <= 4664.00)
             {
                 double deducao3 = (salario - 636);
                 Console.WriteLine("A sua aliquota é de 22.5%");
-                Console.WriteLine("A dedução do seu imposto de renda será:" + deducao3);
+                Console.WriteLine("O valor final do seu salário após deduçao do imposto de renda =  " + deducao3);
             }else
             {
                 Console.WriteLine("Agradeça a Deus, você não declara imposto de renda! ");

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TGQAD/kfNP8TIsSX/3VpsOhSct7udgHTc0GbIfc/XI59kMWVzjSspZKPJ926mN2FFe5uwoxEdrlVWVHNYhB8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\CalculaPoupanca\\P-10-CalculaPoupanca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

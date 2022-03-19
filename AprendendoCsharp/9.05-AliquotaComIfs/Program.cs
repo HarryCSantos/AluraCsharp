@@ -12,6 +12,7 @@ namespace _9._05_AliquotaComIfs
 
            double salario = 1950.0;
             double deducao1 = (- 142);
+            double valorfinal1 = (salario - deducao1);
 
             if (salario >= 1900.0 && salario <= 2800.0 )
             {

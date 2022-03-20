@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.genruntimeconfig.cache

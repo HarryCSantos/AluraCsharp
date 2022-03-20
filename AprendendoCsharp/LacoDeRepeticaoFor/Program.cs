@@ -6,7 +6,7 @@ namespace LacoDeRepeticaoFor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando Programa: Criando uma Matrix Triangular");
+            Console.WriteLine("Executando Programa Laço de repetição for");
 
             for (int linha = 0; linha < 10; linha++)
             {

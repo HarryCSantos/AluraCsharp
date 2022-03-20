@@ -13,3 +13,4 @@ C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausan
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\ref\TesteTabuadausandofor.dll
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.pdb
 C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.genruntimeconfig.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.csproj.AssemblyReference.cache

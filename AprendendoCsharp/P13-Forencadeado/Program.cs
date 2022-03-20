@@ -8,6 +8,11 @@ namespace P13_Forencadeado
         {
             Console.WriteLine("Executando projeto 13");
 
+            for(int contadorLinha = 0; contadorLinha < 10; contadorLinha++)
+            {
+                for(int contadorColuna = 0; contadorColuna <10; contadorColuna++)
+            }
+
 
             Console.ReadLine();
         }

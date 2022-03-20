@@ -6,7 +6,15 @@ namespace P_11_CalculaPoupanca2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando Projeto 11 - Calcula Poupança");
+            Console.WriteLine("Executando Projeto 11 - Calculando Poupança");
+
+            double valorInvestido = 1000;
+
+            for int contadorMes = 1; contadorMes <= 12; contadorMes = contadorMes + 1;
+
+
+
+
 
             Console.ReadLine();
         }

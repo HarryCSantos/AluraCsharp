@@ -10,6 +10,12 @@ namespace P12_CalculaInvestimentoALongoPrazo
 
             double fatorRendimento = 1.0036;
 
+            for(int contadorAno = 1; contadorAno <= 5; contadorAno ++)
+            {
+                fatorRendimento += 0.0010;
+            }
+
+            Console.ReadLine();
         }
     }
 }

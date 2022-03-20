@@ -13,8 +13,10 @@ namespace P13_Forencadeado
                 for(int contadorColuna = 0; contadorColuna <10; contadorColuna++)
                 {
                     Console.Write("*");
+                    if (contadorColuna >= contadorLinha)
+                        break;
                 }
-                Console.WriteLine();
+                Console.WriteLine(); 
             }
 
 

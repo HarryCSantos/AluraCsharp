@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJwL1AzxZgcPfy5uSf6EGnS/9jJs5ughVytFNjRBw9M7D8GRlNZeNJU9wTk1rBjq4WMgtavD1TATq898f0m7Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\LacoDeRepeticaoFor\\LacoDeRepeticaoFor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

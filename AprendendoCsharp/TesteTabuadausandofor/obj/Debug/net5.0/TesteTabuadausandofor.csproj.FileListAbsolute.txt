@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\TesteTabuadausandofor.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\TesteTabuadausandofor.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\TesteTabuadausandofor.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\TesteTabuadausandofor.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\TesteTabuadausandofor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\ref\TesteTabuadausandofor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\bin\Debug\net5.0\TesteTabuadausandofor.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\ref\TesteTabuadausandofor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\TesteTabuadausandofor\obj\Debug\net5.0\TesteTabuadausandofor.genruntimeconfig.cache

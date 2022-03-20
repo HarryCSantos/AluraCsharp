@@ -12,7 +12,7 @@ namespace P13_Forencadeado
             {
                 for(int contadorColuna = 0; contadorColuna <10; contadorColuna++)
                 {
-                    Console.WriteLine("*");
+                    Console.Write("*");
                 }
                 Console.WriteLine();
             }

@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\P13-Forencadeado.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\P13-Forencadeado.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\P13-Forencadeado.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\P13-Forencadeado.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\P13-Forencadeado.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\ref\P13-Forencadeado.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\bin\Debug\net5.0\P13-Forencadeado.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\ref\P13-Forencadeado.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P13-Forencadeado\obj\Debug\net5.0\P13-Forencadeado.genruntimeconfig.cache

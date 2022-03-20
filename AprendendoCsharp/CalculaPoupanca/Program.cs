@@ -14,7 +14,9 @@ namespace CalculaPoupanca
             while (contadorMes <= 12)
             {
                 valorInvestido = valorInvestido + valorInvestido * 0.0036;
-                Console.WriteLine("Após N meses, você terá " + valorInvestido);
+                Console.WriteLine("Após " + contadorMes + " meses, você    terá R$ " + valorInvestido);
+
+                contadorMes = contadorMes + 1;
             }
                 
 

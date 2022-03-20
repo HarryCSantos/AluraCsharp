@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Programa
+/*class Programa
 {
     static void Main(String [] args)
     {
@@ -11,6 +11,18 @@ class Programa
                 Console.WriteLine(i);
 
             }
+        }
+    }
+}*/
+
+// Ou pode usar a primeira dentre as muitas opções
+class Programa
+{
+    static void Main(String [] args)
+    {
+        for (int i = 3; i < 100; i += 3)
+        {
+            Console.WriteLine(i);
         }
     }
 }

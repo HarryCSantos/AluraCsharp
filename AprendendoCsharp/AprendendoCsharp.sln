@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.04-TestaEscopo", "9.04-Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.05-AliquotaComIfs", "9.05-AliquotaComIfs\9.05-AliquotaComIfs.csproj", "{698F63FA-7935-48B5-AD6E-6426AC2F043D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteSwitch", "TesteSwitch\TesteSwitch.csproj", "{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T1-TesteSwitch", "TesteSwitch\T1-TesteSwitch.csproj", "{5E2F24AC-0B63-4FC9-8813-060A450AFCAD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P-10-CalculaPoupanca", "CalculaPoupanca\P-10-CalculaPoupanca.csproj", "{1735A834-5F1E-4E84-AACF-9C6309647800}"
 EndProject
@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P12-CalculaInvestimentoALon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-Forencadeado", "P13-Forencadeado\P13-Forencadeado.csproj", "{47A75696-7A71-4041-821A-0631FF2EC339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteTabuadausandofor", "TesteTabuadausandofor\TesteTabuadausandofor.csproj", "{C4B2D8C0-3D60-4F39-BE60-B4BB419E3D97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2-TesteTabuadausandofor", "TesteTabuadausandofor\T2-TesteTabuadausandofor.csproj", "{C4B2D8C0-3D60-4F39-BE60-B4BB419E3D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor", "LacoDeRepeticaoFor\LacoDeRepeticaoFor.csproj", "{B5C50FF7-51D2-495C-8B76-E28FFEE065C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T3-LacoDeRepeticaoFor", "LacoDeRepeticaoFor\T3-LacoDeRepeticaoFor.csproj", "{B5C50FF7-51D2-495C-8B76-E28FFEE065C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T4-Fatorial", "T4-Fatorial\T4-Fatorial.csproj", "{82931FCB-2C97-4345-8AD5-B70629D63D2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{B5C50FF7-51D2-495C-8B76-E28FFEE065C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5C50FF7-51D2-495C-8B76-E28FFEE065C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5C50FF7-51D2-495C-8B76-E28FFEE065C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82931FCB-2C97-4345-8AD5-B70629D63D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82931FCB-2C97-4345-8AD5-B70629D63D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82931FCB-2C97-4345-8AD5-B70629D63D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82931FCB-2C97-4345-8AD5-B70629D63D2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1jqc6JMhdqHpEzxCosNkm0Jk/mvX8o6ngGpS80JsXjbiT5yYETvYEeHvLbKYBL/IaFt1APOC7NPgHnAsNIGng==",
+  "dgSpecHash": "3ssdLti6uWhJrJ2E1Nzjh8dxTQ7a9H05n4olPa0tGXtzeKP5CjL7XizP8dT7f2kXQARm2Avbh8oBqpZe31Qalw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteSwitch\\TesteSwitch.csproj",
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteSwitch\\T1-TesteSwitch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

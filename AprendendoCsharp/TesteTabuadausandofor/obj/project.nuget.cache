@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuLPGRlY2a+rA47RU/xSulz2cl9Z8glVEn8oc1rOcpozsZ1H+/gbHYQf141y3ySNFfFV/8wp1olhPGX+uQqSbA==",
+  "dgSpecHash": "EZn+trySWJR5buafTEthAZw67sVATdSBZl0TTTc22asfgUAkZSwacGRGPxKbPoGS7WvFJJ6OW/jFy8v+ZrFiyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\TesteTabuadausandofor.csproj",
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\T2-TesteTabuadausandofor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

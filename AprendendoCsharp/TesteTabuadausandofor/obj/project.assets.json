@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\TesteTabuadausandofor.csproj",
-      "projectName": "TesteTabuadausandofor",
-      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\TesteTabuadausandofor.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\T2-TesteTabuadausandofor.csproj",
+      "projectName": "T2-TesteTabuadausandofor",
+      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\T2-TesteTabuadausandofor.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\TesteTabuadausandofor\\obj\\",
       "projectStyle": "PackageReference",

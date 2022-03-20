@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\LacoDeRepeticaoFor\\LacoDeRepeticaoFor.csproj",
-      "projectName": "LacoDeRepeticaoFor",
-      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\LacoDeRepeticaoFor\\LacoDeRepeticaoFor.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\LacoDeRepeticaoFor\\T3-LacoDeRepeticaoFor.csproj",
+      "projectName": "T3-LacoDeRepeticaoFor",
+      "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\LacoDeRepeticaoFor\\T3-LacoDeRepeticaoFor.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\LacoDeRepeticaoFor\\obj\\",
       "projectStyle": "PackageReference",

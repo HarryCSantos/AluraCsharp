@@ -8,6 +8,7 @@ namespace P13_Forencadeado
         {
             Console.WriteLine("Executando projeto 13");
 
+            // Escrevendo asteriscos com o Break
             for(int contadorLinha = 0; contadorLinha < 10; contadorLinha++)
             {
                 for(int contadorColuna = 0; contadorColuna <10; contadorColuna++)
@@ -17,6 +18,19 @@ namespace P13_Forencadeado
                         break;
                 }
                 Console.WriteLine(); 
+            }
+
+
+            // Uma forma diferente de fazer o desenho de asteriscos 
+            for (int contadorLinha = 0; contadorLinha < 10; contadorLinha++)
+            {
+                for (int contadorColuna = 0; contadorColuna < 10; contadorColuna++)
+                {
+                    Console.Write("*");
+                    if (contadorColuna >= contadorLinha)
+                        break;
+                }
+                Console.WriteLine();
             }
 
 

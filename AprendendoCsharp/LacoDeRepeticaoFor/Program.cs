@@ -16,7 +16,9 @@ namespace LacoDeRepeticaoFor
                     {
                         break;
                     }
+                    Console.Write("*");
                 }
+                Console.WriteLine();
             }
 
 

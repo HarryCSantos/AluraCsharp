@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8G9i3jt4SqpVXdwADdSAUkQ8yUqFCY2qF4Fm5spBLnyGg+8PozNCs+ArDPLKanZOFualmvEkzlN2UzueaoULbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\Desktop\\My-Projects\\AluraCsharp\\AprendendoCsharp\\P13-Forencadeado\\P13-Forencadeado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

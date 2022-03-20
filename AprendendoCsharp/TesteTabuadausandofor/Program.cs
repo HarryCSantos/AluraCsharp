@@ -15,7 +15,10 @@ namespace TesteTabuadausandofor
                     Console.WriteLine(multiplicador + " * " + contador + " = " + multiplicador * contador);
                 }
             }
-
+                    
         }
     }
 }
+
+
+

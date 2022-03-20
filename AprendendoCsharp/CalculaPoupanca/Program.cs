@@ -17,6 +17,7 @@ namespace CalculaPoupanca
                 Console.WriteLine("Após " + contadorMes + " meses, você terá    R$ " + valorInvestido);
 
                 //contadorMes = contadorMes + 1;
+                contadorMes += 1;
             }
                 
 

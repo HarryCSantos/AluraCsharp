@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\ref\P12-CalculaInvestimentoALongoPrazo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\ref\P12-CalculaInvestimentoALongoPrazo.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoALongoPrazo.genruntimeconfig.cache

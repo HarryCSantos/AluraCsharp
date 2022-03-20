@@ -15,7 +15,7 @@ namespace P12_CalculaInvestimentoALongoPrazo
             {   
                 for(int contadorMes = 1; contadorMes <= 12; contadorMes++)
                 {
-                    valorInvestido *= 0.0010;
+                    valorInvestido *= fatorRendimento;
                 }
                 fatorRendimento += 0.0010;
             }

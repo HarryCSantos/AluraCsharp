@@ -13,6 +13,9 @@ namespace LacoDeRepeticaoFor
                 for(int coluna = 0; coluna < 10; coluna++)
                 {
                     if (coluna > linha)
+                    {
+                        break;
+                    }
                 }
             }
 

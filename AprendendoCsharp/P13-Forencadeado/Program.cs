@@ -27,8 +27,7 @@ namespace P13_Forencadeado
                 for (int contadorColuna = 0; contadorColuna <= contadorLinha; contadorColuna++)
                 {
                     Console.Write("*");
-                    if (contadorColuna >= contadorLinha)
-                        break;
+                    
                 }
                 Console.WriteLine();
             }

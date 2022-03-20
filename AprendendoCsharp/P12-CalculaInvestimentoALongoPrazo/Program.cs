@@ -20,7 +20,7 @@ namespace P12_CalculaInvestimentoALongoPrazo
                 fatorRendimento += 0.0010;
             }
 
-            Console.WriteLine("Tempo de investimento foi de: ");
+            Console.WriteLine("Tempo de investimento foi de: 5 anos ");
             Console.WriteLine("Ao término do investimento você terá R$ " + valorInvestido);
 
             Console.ReadLine();

@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\T4-Fatorial.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\T4-Fatorial.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\T4-Fatorial.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\T4-Fatorial.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\T4-Fatorial.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\ref\T4-Fatorial.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\bin\Debug\net5.0\T4-Fatorial.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\ref\T4-Fatorial.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\T4-Fatorial\obj\Debug\net5.0\T4-Fatorial.genruntimeconfig.cache

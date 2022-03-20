@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\T3-LacoDeRepeticaoFor.exe
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\T3-LacoDeRepeticaoFor.deps.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\T3-LacoDeRepeticaoFor.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\T3-LacoDeRepeticaoFor.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\T3-LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\ref\T3-LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\T3-LacoDeRepeticaoFor.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\ref\T3-LacoDeRepeticaoFor.dll
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.pdb
+C:\Users\harry\Desktop\My-Projects\AluraCsharp\AprendendoCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\T3-LacoDeRepeticaoFor.genruntimeconfig.cache

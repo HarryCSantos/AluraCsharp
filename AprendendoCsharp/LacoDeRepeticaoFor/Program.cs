@@ -16,7 +16,12 @@
 
 using System;
 {
-    }
+    static void Main(String [] args)
+
+
+
+
+}
 
 
 

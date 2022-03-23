@@ -18,8 +18,8 @@ using System;
 {
     static void Main(String [] args)
      {
-            Cons
-        }
+        Console.WriteLine("Executando prática");
+     }
 
 
 }

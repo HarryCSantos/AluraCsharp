@@ -13,24 +13,6 @@
             }
         }
     }
-
-using System;
-{
-    static void Main(String [] args)
-     {
-        Console.WriteLine("Executando prática");
-     }
-
-
-}
-
-
-
-
-
-
-
-
 }*/
 
 // Ou pode usar a primeira dentre as muitas opções

@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Programa
+/*class Programa
 {
     static void Main(String [] args)
     {
@@ -13,7 +13,7 @@ class Programa
             }
         }
     }
-}*
+}*/
 
 // Ou pode usar a primeira dentre as muitas opções
 class Programa
